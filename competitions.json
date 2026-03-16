@@ -5915,7 +5915,7 @@
     },
     {
       "name": "Synthesize Novel Views of Soccer Matches",
-      "url": "https://www.soccer-net.org/challenges/2026?ref=mlcontests",
+      "url": "https://www.codabench.org/competitions/11339/?ref=mlcontests",
       "tags": ["3d", "vision", "sports", "generative"],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
@@ -5924,7 +5924,7 @@
       "sponsor": "EVS Broadcast Equipment",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": []
+      "additional_urls": ["https://www.soccer-net.org/challenges/2026?ref=mlcontests"]
     }
   ]
 }
