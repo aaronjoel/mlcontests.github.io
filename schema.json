@@ -171,7 +171,8 @@
           },
           "sponsor": {
             "type": ["string", "null"],
-            "description": "List any organisations sponsoring the competition."
+            "description": "List any organisations sponsoring the competition.",
+            "maxLength": 60
           },
           "conference": {
             "type": ["string", "null"],

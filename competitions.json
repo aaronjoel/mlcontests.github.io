@@ -305,7 +305,7 @@
       "deadline": "10 May 2025",
       "prize": "$50,000",
       "platform": "Pond",
-      "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, Allo Capital, Drips Network, Pairwisevote",
+      "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, others",
       "additional_urls": [
         "https://www.deepfunding.org/"
       ],
@@ -590,7 +590,7 @@
       "deadline": "12 Dec 2024",
       "prize": "$55,000",
       "platform": "Kaggle",
-      "sponsor": "The Learning Agency Lab, Gates Foundation, Schmidt Futures, Chan Zuckerberg Initiative",
+      "sponsor": "Learning Agency Lab, Gates Foundation, Schmidt Futures, CZI",
       "conference": null,
       "conference_year": null,
       "data-size": 0.00091134
@@ -3102,7 +3102,7 @@
       "deadline": "15 Dec 2024",
       "prize": "$8,000",
       "platform": "Zindi",
-      "sponsor": "FAIR Forward, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "sponsor": "FAIR Forward, Deutsche GIZ",
       "conference": null,
       "conference_year": null
     },
@@ -3122,7 +3122,7 @@
       "deadline": "09 Feb 2025",
       "prize": "$7,300",
       "platform": "Zindi",
-      "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "sponsor": "Deutsche GIZ",
       "conference": null,
       "conference_year": null
     },
