@@ -5814,6 +5814,44 @@
       "sponsor": "Cornell Lab of Ornithology",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Identify Safety-Critical Driving Scenarios",
+      "url": "https://www.argoverse.org/ScenarioMining.html?ref=mlcontests",
+      "tags": [
+        "driving",
+        "vision",
+        "nlp",
+        "video",
+        "detection",
+        "measurable"
+      ],
+      "launched": "18 Feb 2026",
+      "deadline": "31 May 2026",
+      "added": "16 Mar 2026",
+      "prize": "$7,500",
+      "platform": "EvalAI",
+      "sponsor": "Argo AI",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://eval.ai/web/challenges/challenge-page/2484/overview"
+      ]
+    },
+    {
+      "name": "Reconstruct 3D Buildings from Diverse Regions",
+      "url": "https://usm3d.github.io/?ref=mlcontests",
+      "tags": ["3d", "vision", "segmentation", "building"],
+      "deadline": "25 May 2026",
+      "added": "16 Mar 2026",
+      "prize": "$2,000",
+      "platform": "Hugging Face",
+      "sponsor": null,
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
+      ]
     }
   ]
 }
