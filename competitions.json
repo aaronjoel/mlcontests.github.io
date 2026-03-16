@@ -2,8 +2,8 @@
   "data": [
 
     {
-      "name": "ANNITIA – MASLD Progression Prediction Challenge",
-      "url": "https://annitia.trustii.io/",
+      "name": "Predict Liver-Related Events from Synthetic Patient Data",
+      "url": "https://annitia.trustii.io/?ref=mlcontests",
       "tags": [
         "measurable",
         "supervised",
@@ -16,7 +16,7 @@
       "registration-deadline": "11 May 2026",
       "deadline": "11 May 2026",
       "prize": "$16,000",
-      "platform": "Trustii.io",
+      "platform": "Trustii",
       "sponsor": "IHU ICAN, Health Data Hub, France 2030",
       "conference": null,
       "conference_year": null,
