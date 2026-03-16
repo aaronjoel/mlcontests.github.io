@@ -5852,6 +5852,79 @@
       "additional_urls": [
         "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
       ]
+    },
+    {
+      "name": "Detect and Localize Athletes in Soccer Broadcasts",
+      "url": "https://www.codabench.org/competitions/10155/?ref=mlcontests",
+      "tags": ["detection", "vision", "sports", "measurable"],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Spiideo",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Anticipate Ball Actions in Soccer Videos",
+      "url": "https://www.codabench.org/competitions/10861/?ref=mlcontests",
+      "tags": ["video", "prediction", "sports", "timeseries", "classification", "measurable"],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Game On Technologies",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Answer Visual Questions About Soccer Videos",
+      "url": "https://www.codabench.org/competitions/11087/?ref=mlcontests",
+      "tags": ["video", "nlp", "multimodal", "sports", "measurable"],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "KNQ Technology",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Spot Player-Centric Actions in Soccer",
+      "url": "https://www.codabench.org/competitions/11232/?ref=mlcontests",
+      "tags": ["video", "detection", "sports", "timeseries", "classification", "measurable"],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Footovision",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Synthesize Novel Views of Soccer Matches",
+      "url": "https://www.soccer-net.org/challenges/2026?ref=mlcontests",
+      "tags": ["3d", "vision", "sports", "generative"],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "EVS Broadcast Equipment",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": []
     }
   ]
 }
