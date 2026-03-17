@@ -5969,18 +5969,20 @@
       ]
     },
     {
-      "name": "NVIDIA Nemotron Model Reasoning Challenge",
+      "name": "Improve Reasoning Performance in NVIDIA Nemotron LLMs",
       "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge?ref=mlcontests",
       "tags": [
-        "deep learning",
-        "pre-trained model",
-        "general knowledge and reasoning",
-        "custom metric"
+        "llm",
+        "generative",
+        "reasoning",
+        "measurable",
+        "fine-tuning",
+        "nlp"
       ],
       "launched": "16 Mar 2026",
       "registration-deadline": "8 Jun 2026",
       "deadline": "15 Jun 2026",
-      "prize": "$106,388",
+      "prize": "$50,000",
       "platform": "Kaggle",
       "sponsor": "NVIDIA",
       "conference": null,
