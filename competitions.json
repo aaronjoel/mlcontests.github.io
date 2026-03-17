@@ -1,6 +1,5 @@
 {
   "data": [
-
     {
       "name": "Predict Liver-Related Events from Synthetic Patient Data",
       "url": "https://annitia.trustii.io/?ref=mlcontests",
@@ -763,7 +762,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": ["https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"],
+      "additional_urls": [
+        "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"
+      ],
       "launched": "31 Jul 2024",
       "registration-deadline": "31 Oct 2024",
       "deadline": "31 Oct 2024",
@@ -4951,7 +4952,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": ["https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"],
+      "additional_urls": [
+        "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"
+      ],
       "launched": "1 Aug 2025",
       "registration-deadline": "31 Oct 2025",
       "deadline": "31 Oct 2025",
@@ -4972,7 +4975,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": ["https://neurips25-eai.github.io/?ref=mlcontests"],
+      "additional_urls": [
+        "https://neurips25-eai.github.io/?ref=mlcontests"
+      ],
       "launched": "15 Aug 2025",
       "registration-deadline": null,
       "deadline": "30 Nov 2025",
@@ -5841,7 +5846,12 @@
     {
       "name": "Reconstruct 3D Buildings from Diverse Regions",
       "url": "https://usm3d.github.io/?ref=mlcontests",
-      "tags": ["3d", "vision", "segmentation", "building"],
+      "tags": [
+        "3d",
+        "vision",
+        "segmentation",
+        "building"
+      ],
       "deadline": "25 May 2026",
       "added": "16 Mar 2026",
       "prize": "$2,000",
@@ -5856,7 +5866,12 @@
     {
       "name": "Detect and Localize Athletes in Soccer Broadcasts",
       "url": "https://www.codabench.org/competitions/10155/?ref=mlcontests",
-      "tags": ["detection", "vision", "sports", "measurable"],
+      "tags": [
+        "detection",
+        "vision",
+        "sports",
+        "measurable"
+      ],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
       "prize": "$1,000",
@@ -5871,7 +5886,14 @@
     {
       "name": "Anticipate Ball Actions in Soccer Videos",
       "url": "https://www.codabench.org/competitions/10861/?ref=mlcontests",
-      "tags": ["video", "prediction", "sports", "timeseries", "classification", "measurable"],
+      "tags": [
+        "video",
+        "prediction",
+        "sports",
+        "timeseries",
+        "classification",
+        "measurable"
+      ],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
       "prize": "$1,000",
@@ -5886,7 +5908,13 @@
     {
       "name": "Answer Visual Questions About Soccer Videos",
       "url": "https://www.codabench.org/competitions/11087/?ref=mlcontests",
-      "tags": ["video", "nlp", "multimodal", "sports", "measurable"],
+      "tags": [
+        "video",
+        "nlp",
+        "multimodal",
+        "sports",
+        "measurable"
+      ],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
       "prize": "$1,000",
@@ -5901,7 +5929,14 @@
     {
       "name": "Spot Player-Centric Actions in Soccer",
       "url": "https://www.codabench.org/competitions/11232/?ref=mlcontests",
-      "tags": ["video", "detection", "sports", "timeseries", "classification", "measurable"],
+      "tags": [
+        "video",
+        "detection",
+        "sports",
+        "timeseries",
+        "classification",
+        "measurable"
+      ],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
       "prize": "$1,000",
@@ -5916,7 +5951,12 @@
     {
       "name": "Synthesize Novel Views of Soccer Matches",
       "url": "https://www.codabench.org/competitions/11339/?ref=mlcontests",
-      "tags": ["3d", "vision", "sports", "generative"],
+      "tags": [
+        "3d",
+        "vision",
+        "sports",
+        "generative"
+      ],
       "deadline": "24 Apr 2026",
       "added": "16 Mar 2026",
       "prize": "$1,000",
@@ -5924,7 +5964,29 @@
       "sponsor": "EVS Broadcast Equipment",
       "conference": "CVPR",
       "conference-year": 2026,
-      "additional_urls": ["https://www.soccer-net.org/challenges/2026?ref=mlcontests"]
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
+      ]
+    },
+    {
+      "name": "Improve Reasoning Performance in NVIDIA Nemotron LLMs",
+      "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge?ref=mlcontests",
+      "tags": [
+        "llm",
+        "generative",
+        "reasoning",
+        "measurable",
+        "fine-tuning",
+        "nlp"
+      ],
+      "launched": "16 Mar 2026",
+      "registration-deadline": "8 Jun 2026",
+      "deadline": "15 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "NVIDIA",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
