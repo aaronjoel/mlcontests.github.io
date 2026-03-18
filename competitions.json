@@ -5987,6 +5987,23 @@
       "sponsor": "NVIDIA",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Design Benchmarks to Test Cognitive Abilities",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "generative",
+        "subjective"
+      ],
+      "launched": "17 Mar 2026",
+      "deadline": "16 Apr 2026",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
