@@ -5989,15 +5989,15 @@
       "conference_year": null
     },
     {
-      "name": "Measuring Progress Toward AGI - Cognitive Abilities",
+      "name": "Design Benchmarks to Test Cognitive Abilities",
       "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi?ref=mlcontests",
       "tags": [
-        "research",
-        "benchmark",
-        "personal benchmark"
+        "hackathon",
+        "llm",
+        "generative",
+        "subjective"
       ],
       "launched": "17 Mar 2026",
-      "registration-deadline": null,
       "deadline": "16 Apr 2026",
       "prize": "$200,000",
       "platform": "Kaggle",
