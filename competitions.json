@@ -6004,6 +6004,25 @@
       "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Detect Objects in Helicopter Camera Images",
+      "url": "https://www.kaggle.com/competitions/leonardo-airborne-object-recognition-challenge?ref=mlcontests",
+      "tags": [
+        "image",
+        "vision",
+        "object detection",
+        "measurable",
+        "supervised"
+      ],
+      "launched": "19 Mar 2026",
+      "registration-deadline": "16 Jun 2026",
+      "deadline": "23 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Leonardo",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
