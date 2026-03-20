@@ -6006,13 +6006,14 @@
       "conference_year": null
     },
     {
-      "name": "Leonardo - Airborne Object Recognition Challenge",
+      "name": "Detect Objects in Helicopter Camera Images",
       "url": "https://www.kaggle.com/competitions/leonardo-airborne-object-recognition-challenge?ref=mlcontests",
       "tags": [
         "image",
-        "video",
+        "vision",
         "object detection",
-        "custom metric"
+        "measurable",
+        "supervised"
       ],
       "launched": "19 Mar 2026",
       "registration-deadline": "16 Jun 2026",
