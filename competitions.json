@@ -5743,6 +5743,22 @@
       "sponsor": "AI4EAC",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI4EAC Bean Flowering Detection Challenge [ADVANCED]",
+      "url": "https://zindi.africa/competitions/bean-flowering-detection-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "computer vision"
+      ],
+      "launched": "28 Mar 2026",
+      "registration-deadline": "29 Mar 2026",
+      "deadline": "29 Mar 2026",
+      "prize": "$7,500",
+      "platform": "Zindi",
+      "sponsor": "AI4EAC",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
