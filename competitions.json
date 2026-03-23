@@ -5659,6 +5659,25 @@
       "sponsor": "Gates Foundation",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "EY Biodiversity Challenge",
+      "url": "https://zindi.africa/competitions/ey-biodiversity-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "science",
+	    "measurable",
+	    "geo"
+      ],
+      "launched": "27 Mar 2026",
+      "registration-deadline": "25 May 2026",
+      "deadline": "25 May 2026",
+      "prize": "$3,500",
+      "platform": "Zindi",
+      "sponsor": "EY",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
