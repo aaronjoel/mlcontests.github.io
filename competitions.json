@@ -5694,6 +5694,23 @@
       "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN, Lanfrica, vodacom, orange ethio telecom, World Sandbox Alliance, Masakhane, MOZISHA, Pawa AI, APHRC, TOUMAI, Digital Umuganda, airtel, capsele, AXUM, TELECOM, awarri, DATA SPIRES fBIS",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI4EAC Climate & Health Risk Prediction Challenge [BEGINNER]",
+      "url": "https://zindi.africa/competitions/climate-health-risk-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction",
+        "geo"
+      ],
+      "launched": "28 Mar 2026",
+      "registration-deadline": "29 Mar 2026",
+      "deadline": "29 Mar 2026",
+      "prize": "$7,500",
+      "platform": "Zindi",
+      "sponsor": "AI4EAC",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
