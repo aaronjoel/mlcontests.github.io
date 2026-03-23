@@ -5711,6 +5711,22 @@
       "sponsor": "AI4EAC",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "AI4EAC Liquidity Stress Early Warning Challenge [BEGINNER]",
+      "url": "https://zindi.africa/competitions/liquidity-stress-early-warning-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "prediction"
+      ],
+      "launched": "28 Mar 2026",
+      "registration-deadline": "29 Mar 2026",
+      "deadline": "29 Mar 2026",
+      "prize": "$7,500",
+      "platform": "Zindi",
+      "sponsor": "AI4EAC",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
