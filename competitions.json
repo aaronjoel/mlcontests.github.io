@@ -1,7 +1,130 @@
 {
   "data": [
     {
-      "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
+      "name": "Predict Liver-Related Events from Synthetic Patient Data",
+      "url": "https://annitia.trustii.io/?ref=mlcontests",
+      "tags": [
+        "measurable",
+        "supervised",
+        "regression",
+        "tabular",
+        "medical",
+        "science"
+      ],
+      "launched": "16 Mar 2026",
+      "registration-deadline": "11 May 2026",
+      "deadline": "11 May 2026",
+      "prize": "$16,000",
+      "platform": "Trustii",
+      "sponsor": "IHU ICAN, Health Data Hub, France 2030",
+      "conference": null,
+      "conference_year": null,
+      "additional_urls": [
+        "https://health-data-hub.fr/page/le-data-challenge-annitia"
+      ]
+    },
+    {
+      "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
+      "url": "https://luma.com/cqq4mojz?ref=mlcontests",
+      "tags": [
+        "hardware",
+        "inference",
+        "computer science",
+        "efficiency",
+        "measurable"
+      ],
+      "launched": "6 Mar 2026",
+      "registration-deadline": "30 Mar 2026",
+      "deadline": "11 May 2026 Apr 2026",
+      "prize": "$1,100,000",
+      "platform": "CrunchDAO",
+      "sponsor": "AMD, GPU Mode",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Genes Driving Metabolic Diseases (Part 2)",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-2?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "science",
+        "medical",
+        "measurable"
+      ],
+      "launched": "1 Mar 2026",
+      "registration-deadline": "13 Apr 2026",
+      "deadline": "13 Apr 2026",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Predict Cross-sectional Equity Returns",
+      "url": "https://hub.crunchdao.com/competitions/datacrunch-2?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "regression",
+        "finance"
+      ],
+      "launched": "5 Jan 2026",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$52,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Crunch Capital",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Detect Structural Breaks in Time Series Data",
+      "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "tabular",
+        "timeseries",
+        "forecasting",
+        "measurable",
+        "finance"
+      ],
+      "launched": "18 Dec 2025",
+      "registration-deadline": "31 Dec 2026",
+      "deadline": "31 Dec 2026",
+      "prize": "$24,000",
+      "platform": "CrunchDAO",
+      "sponsor": "ADIA Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Identify Genes Driving Metabolic Diseases (Part 1)",
+      "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "regression",
+        "ranking",
+        "science",
+        "medical",
+        "measurable"
+      ],
+      "launched": "8 Dec 2025",
+      "registration-deadline": "28 Feb 2026",
+      "deadline": "28 Feb 2026",
+      "prize": "$12,000",
+      "platform": "CrunchDAO",
+      "sponsor": "Eric and Wendy Schmidt Center",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Falcon: Price-Like Timeseries Forecasting",
       "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
       "tags": [
         "finance",
@@ -13,8 +136,8 @@
         "regression"
       ],
       "launched": "15 Oct 2025",
-      "registration-deadline": "31 Jan 2026",
-      "deadline": "31 Jan 2026",
+      "registration-deadline": "14 Feb 2026",
+      "deadline": "14 Feb 2026",
       "prize": "$30,000",
       "platform": "CrunchDAO",
       "sponsor": null,
@@ -163,7 +286,7 @@
       "conference_year": null
     },
     {
-      "name": "Quantify Contributions of Open Source Code to Downstream Projects",
+      "name": "Quantify Contributions of Open Source Code to Other Projects",
       "url": "https://cryptopond.xyz/modelfactory/detail/2564617?ref=mlcontests",
       "tags": [
         "finance",
@@ -181,7 +304,7 @@
       "deadline": "10 May 2025",
       "prize": "$50,000",
       "platform": "Pond",
-      "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, Allo Capital, Drips Network, Pairwisevote",
+      "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, others",
       "additional_urls": [
         "https://www.deepfunding.org/"
       ],
@@ -270,7 +393,7 @@
       "conference_year": null
     },
     {
-      "name": "CytologIA Data Challenge - Advancing Hematological Diagnostics Through AI",
+      "name": "Advance Hematological Diagnostics Through AI",
       "url": "https://www.trustii.io/post/announcing-the-cytologia-data-challenge-advancing-hematological-diagnostics-through-ai?ref=mlcontests",
       "tags": [
         "supervised",
@@ -351,7 +474,7 @@
       "tags": [
         "nlp",
         "generative",
-        "video generation",
+        "video",
         "llm",
         "subjective",
         "analysis/visualisation"
@@ -466,7 +589,7 @@
       "deadline": "12 Dec 2024",
       "prize": "$55,000",
       "platform": "Kaggle",
-      "sponsor": "The Learning Agency Lab, Gates Foundation, Schmidt Futures, Chan Zuckerberg Initiative",
+      "sponsor": "Learning Agency Lab, Gates Foundation, Schmidt Futures, CZI",
       "conference": null,
       "conference_year": null,
       "data-size": 0.00091134
@@ -533,7 +656,7 @@
       "data-size": null
     },
     {
-      "name": "Higgs Boson Decay: Signal Strength Uncertainty Quantification",
+      "name": "Higgs Boson Decay: Uncertainty Quantification",
       "url": "https://www.codabench.org/competitions/2977/?ref=mlcontests",
       "tags": [
         "physics",
@@ -639,7 +762,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests",
+      "additional_urls": [
+        "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"
+      ],
       "launched": "31 Jul 2024",
       "registration-deadline": "31 Oct 2024",
       "deadline": "31 Oct 2024",
@@ -862,7 +987,7 @@
       "url": "https://codalab.lisn.upsaclay.fr/competitions/19660?ref=mlcontests",
       "tags": [
         "control",
-        "HVAC",
+        "engineering",
         "building",
         "energy",
         "measurable"
@@ -1158,7 +1283,6 @@
       "additional_urls": [
         "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
       ],
-      "launched": " 2024",
       "registration-deadline": "24 May 2024",
       "deadline": "24 May 2024",
       "prize": null,
@@ -2979,7 +3103,7 @@
       "deadline": "15 Dec 2024",
       "prize": "$8,000",
       "platform": "Zindi",
-      "sponsor": "FAIR Forward, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "sponsor": "FAIR Forward, Deutsche GIZ",
       "conference": null,
       "conference_year": null
     },
@@ -2999,7 +3123,7 @@
       "deadline": "09 Feb 2025",
       "prize": "$7,300",
       "platform": "Zindi",
-      "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+      "sponsor": "Deutsche GIZ",
       "conference": null,
       "conference_year": null
     },
@@ -3091,7 +3215,7 @@
         "supervised",
         "nlp",
         "sentiment analysis",
-        "machine translation",
+        "translation",
         "research",
         "measurable"
       ],
@@ -3148,8 +3272,7 @@
       "tags": [
         "nlp",
         "classification",
-        "languages",
-        "accuracy score"
+        "languages"
       ],
       "launched": "18 Nov 2024",
       "registration-deadline": "27 Jan 2025",
@@ -3182,7 +3305,6 @@
       "name": "Create Adversarial Essays for LLM Judges",
       "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
       "tags": [
-        "text generation",
         "generative",
         "nlp",
         "measurable"
@@ -3604,7 +3726,7 @@
       "name": "Reconstruct 3D Scenes From 2D Image Collections",
       "url": "https://www.kaggle.com/competitions/image-matching-challenge-2025?ref=mlcontests",
       "tags": [
-        "computer vision",
+        "vision",
         "supervised",
         "3d",
         "clustering",
@@ -3854,7 +3976,7 @@
       ],
       "prize": "$100,000",
       "platform": "CrunchDAO",
-      "sponsor": "ADIALAB"
+      "sponsor": "ADIA Lab"
     },
     {
       "name": "Use OpenAI Models to Discover Archaeological Sites",
@@ -4150,7 +4272,7 @@
       "conference_year": null
     },
     {
-      "name": "Data Storytelling Challenge: Water Security, Agriculture and Health",
+      "name": "Data Storytelling: Water Security, Agriculture and Health",
       "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "geo",
@@ -4223,7 +4345,7 @@
         "self-supervised",
         "measurable"
       ],
-      "launched": "27 June 2025",
+      "launched": "27 Jun 2025",
       "registration-deadline": "15 Oct 2025",
       "deadline": "15 Oct 2025",
       "prize": null,
@@ -4242,7 +4364,7 @@
         "measurable",
         "business"
       ],
-      "launched": "27 June 2025",
+      "launched": "27 Jun 2025",
       "registration-deadline": "11 Sep 2025",
       "deadline": "26 Sep 2025",
       "prize": "$10,000",
@@ -4830,7 +4952,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests",
+      "additional_urls": [
+        "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"
+      ],
       "launched": "1 Aug 2025",
       "registration-deadline": "31 Oct 2025",
       "deadline": "31 Oct 2025",
@@ -4851,7 +4975,9 @@
         "measurable",
         "control"
       ],
-      "additional_urls": "https://neurips25-eai.github.io/?ref=mlcontests",
+      "additional_urls": [
+        "https://neurips25-eai.github.io/?ref=mlcontests"
+      ],
       "launched": "15 Aug 2025",
       "registration-deadline": null,
       "deadline": "30 Nov 2025",
@@ -4892,7 +5018,6 @@
         "supervised",
         "prediction",
         "measurable",
-        "beginners",
         "forecasting"
       ],
       "launched": "14 Aug 2025",
@@ -5378,15 +5503,15 @@
       "conference": null,
       "conference_year": null
     },
-     {
+    {
       "name": "Forecast Water Quality",
       "url": "https://zindi.africa/competitions/ey-water-quality-forecasting-challenge/?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "geo",
-	    "climate",
-	    "regression",
-	    "measurable"
+        "climate",
+        "regression",
+        "measurable"
       ],
       "launched": "20 Jan 2026",
       "registration-deadline": "13 Mar 2026",
@@ -5403,8 +5528,8 @@
       "tags": [
         "supervised",
         "vision",
-	     "regression",
-	     "measurable"
+        "regression",
+        "measurable"
       ],
       "launched": "24 Dec 2025",
       "registration-deadline": "02 Feb 2026",
@@ -5592,9 +5717,9 @@
         "supervised",
         "prediction",
         "science",
-	    "vision",
-	    "measurable",
-	    "geo"
+        "vision",
+        "measurable",
+        "geo"
       ],
       "launched": "4 Feb 2026",
       "registration-deadline": "6 Mar 2026",
@@ -5625,12 +5750,12 @@
       "conference_year": null
     },
     {
-     "name": "Build Apps for Rice Quality Assessment",
+      "name": "Build Apps for Rice Quality Assessment",
       "url": "https://zindi.africa/competitions/unido-africarice-app-builder-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "product",
         "business",
-		"subjective"
+        "subjective"
       ],
       "launched": "13 Feb 2026",
       "registration-deadline": "1 Mar 2026",
@@ -5680,6 +5805,23 @@
       "conference_year": null
     },
     {
+      "name": "March ML Mania: Forecast College Basketball Tournaments",
+      "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2026?ref=mlcontests",
+      "tags": [
+        "sports",
+        "forecasting",
+        "measurable"
+      ],
+      "launched": "19 Feb 2026",
+      "registration-deadline": null,
+      "deadline": "19 Mar 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Kaggle",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "The African Trust & Safety LLM Challenge",
       "url": "https://zindi.africa/competitions/the-african-trust-safety-llm-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
@@ -5696,7 +5838,25 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Climate & Health Risk Prediction Challenge [BEGINNER]",
+      "name": "BirdCLEF+ 2026:  Identify Animal Species From Audio",
+      "url": "https://www.kaggle.com/competitions/birdclef-2026?ref=mlcontests",
+      "tags": [
+        "biology",
+        "classification",
+        "audio",
+        "measurable"
+      ],
+      "launched": "11 Mar 2026",
+      "registration-deadline": "27 May 2026",
+      "deadline": "3 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "Cornell Lab of Ornithology",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "AI4EAC Climate & Health Risk Prediction Challenge",
       "url": "https://zindi.africa/competitions/climate-health-risk-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
@@ -5713,7 +5873,7 @@
       "conference_year": null
     },
     {
-      "name": "AI4EAC Liquidity Stress Early Warning Challenge [BEGINNER]",
+      "name": "AI4EAC Liquidity Stress Early Warning Challenge",
       "url": "https://zindi.africa/competitions/liquidity-stress-early-warning-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
@@ -5745,11 +5905,179 @@
       "conference_year": null
     },
     {
+      "name": "Identify Safety-Critical Driving Scenarios",
+      "url": "https://www.argoverse.org/ScenarioMining.html?ref=mlcontests",
+      "tags": [
+        "driving",
+        "vision",
+        "nlp",
+        "video",
+        "detection",
+        "measurable"
+      ],
+      "launched": "18 Feb 2026",
+      "deadline": "31 May 2026",
+      "added": "16 Mar 2026",
+      "prize": "$7,500",
+      "platform": "EvalAI",
+      "sponsor": "Argo AI",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://eval.ai/web/challenges/challenge-page/2484/overview"
+      ]
+    },
+    {
+      "name": "Reconstruct 3D Buildings from Diverse Regions",
+      "url": "https://usm3d.github.io/?ref=mlcontests",
+      "tags": [
+        "3d",
+        "vision",
+        "segmentation",
+        "building"
+      ],
+      "deadline": "25 May 2026",
+      "added": "16 Mar 2026",
+      "prize": "$2,000",
+      "platform": "Hugging Face",
+      "sponsor": null,
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
+      ]
+    },
+    {
+      "name": "Detect and Localize Athletes in Soccer Broadcasts",
+      "url": "https://www.codabench.org/competitions/10155/?ref=mlcontests",
+      "tags": [
+        "detection",
+        "vision",
+        "sports",
+        "measurable"
+      ],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Spiideo",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Anticipate Ball Actions in Soccer Videos",
+      "url": "https://www.codabench.org/competitions/10861/?ref=mlcontests",
+      "tags": [
+        "video",
+        "prediction",
+        "sports",
+        "timeseries",
+        "classification",
+        "measurable"
+      ],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Game On Technologies",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Answer Visual Questions About Soccer Videos",
+      "url": "https://www.codabench.org/competitions/11087/?ref=mlcontests",
+      "tags": [
+        "video",
+        "nlp",
+        "multimodal",
+        "sports",
+        "measurable"
+      ],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "KNQ Technology",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Spot Player-Centric Actions in Soccer",
+      "url": "https://www.codabench.org/competitions/11232/?ref=mlcontests",
+      "tags": [
+        "video",
+        "detection",
+        "sports",
+        "timeseries",
+        "classification",
+        "measurable"
+      ],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "Footovision",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026"
+      ]
+    },
+    {
+      "name": "Synthesize Novel Views of Soccer Matches",
+      "url": "https://www.codabench.org/competitions/11339/?ref=mlcontests",
+      "tags": [
+        "3d",
+        "vision",
+        "sports",
+        "generative"
+      ],
+      "deadline": "24 Apr 2026",
+      "added": "16 Mar 2026",
+      "prize": "$1,000",
+      "platform": "Codabench",
+      "sponsor": "EVS Broadcast Equipment",
+      "conference": "CVPR",
+      "conference-year": 2026,
+      "additional_urls": [
+        "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
+      ]
+    },
+    {
+      "name": "Improve Reasoning Performance in NVIDIA Nemotron LLMs",
+      "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge?ref=mlcontests",
+      "tags": [
+        "llm",
+        "generative",
+        "reasoning",
+        "measurable",
+        "fine-tuning",
+        "nlp"
+      ],
+      "launched": "16 Mar 2026",
+      "registration-deadline": "8 Jun 2026",
+      "deadline": "15 Jun 2026",
+      "prize": "$50,000",
+      "platform": "Kaggle",
+      "sponsor": "NVIDIA",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "AI4EAC Bean Flowering Detection Challenge [ADVANCED]",
       "url": "https://zindi.africa/competitions/bean-flowering-detection-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "computer vision"
+        "vision"
       ],
       "launched": "28 Mar 2026",
       "registration-deadline": "29 Mar 2026",
@@ -5757,6 +6085,23 @@
       "prize": "$7,500",
       "platform": "Zindi",
       "sponsor": "AI4EAC",
+      "conference": null,
+      "conference_year": null
+    },
+    {
+      "name": "Design Benchmarks to Test Cognitive Abilities",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi?ref=mlcontests",
+      "tags": [
+        "hackathon",
+        "llm",
+        "generative",
+        "subjective"
+      ],
+      "launched": "17 Mar 2026",
+      "deadline": "16 Apr 2026",
+      "prize": "$200,000",
+      "platform": "Kaggle",
+      "sponsor": "Google DeepMind",
       "conference": null,
       "conference_year": null
     }
