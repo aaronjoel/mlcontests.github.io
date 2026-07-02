@@ -6410,7 +6410,7 @@
       "conference_year": null
     },
     {
-      "name": "Google WAXAL ASR Challenge",
+      "name": "Build Automatic Speech Recognition Systems for African Languages",
       "url": "https://zindi.africa/competitions/google-waxal-asr-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
@@ -6444,11 +6444,13 @@
       "conference_year": null
     },
     {
-      "name": "GeoAI Aquaculture Pond Identification Challenge by FAO & ITU",
-      "url": "https://zindi.africa/competitions/geoai-aquaculture-pond-identification-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "name": "Identify Aquaculture Ponds in Satellite Imagery",
+      "url": "https://zindi.africa/competitions/geoai-aquaculture-pond-identification-challenge/?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
-        "classification"
+        "classification",
+        "vision",
+        "satellite"
       ],
       "launched": "08 Jun 2026",
       "registration-deadline": "07 Aug 2026",
@@ -6476,12 +6478,13 @@
       "conference_year": null
     },
     {
-      "name": "R.O.A.D. Barbados Historic Handwriting Challenge",
+      "name": "Build Models to Transcribe Handwritten Historical Records",
       "url": "https://zindi.africa/competitions/road-barbados-historic-handwriting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
       "tags": [
         "supervised",
         "ocr",
-        "nlp"
+        "nlp",
+        "vision"
       ],
       "launched": "03 Jul 2026",
       "registration-deadline": "05 Oct 2026",
