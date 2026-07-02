@@ -6369,6 +6369,23 @@
       "sponsor": "ITU",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "R.O.A.D. Barbados Historic Handwriting Challenge",
+      "url": "https://zindi.africa/competitions/road-barbados-historic-handwriting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "ocr",
+        "nlp"
+      ],
+      "launched": "03 Jul 2026",
+      "registration-deadline": "05 Oct 2026",
+      "deadline": "05 Oct 2026",
+      "prize": "$25,000",
+      "platform": "Zindi",
+      "sponsor": "Reclaiming Our Atlantic Destinity (R.O.A.D.)",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
