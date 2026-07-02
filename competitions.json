@@ -6336,6 +6336,23 @@
       "sponsor": "Bitgrit",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Google WAXAL ASR Challenge",
+      "url": "https://zindi.africa/competitions/google-waxal-asr-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "nlp",
+        "audio"
+      ],
+      "launched": "26 Jun 2026",
+      "registration-deadline": "03 Aug 2026",
+      "deadline": "03 Aug 2026",
+      "prize": "$10,000",
+      "platform": "Zindi",
+      "sponsor": "Google Research",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
