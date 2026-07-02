@@ -6353,6 +6353,22 @@
       "sponsor": "Google Research",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "GeoAI Aquaculture Pond Identification Challenge by FAO and ITU",
+      "url": "https://zindi.africa/competitions/geoai-aquaculture-pond-identification-challenge/leaderboard?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification"
+      ],
+      "launched": "08 Jun 2026",
+      "registration-deadline": "07 Aug 2026",
+      "deadline": "16 Aug 2026",
+      "prize": "1,000 CHF",
+      "platform": "Zindi",
+      "sponsor": "ITU",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
