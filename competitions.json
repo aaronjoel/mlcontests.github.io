@@ -6989,6 +6989,23 @@
       "sponsor": "Biohub",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Wishlist Hackathon 2026 - Marine Vision Challenge",
+      "url": "https://zindi.africa/competitions/wishlist-hackathon-2026-marine-vision-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+      "tags": [
+        "supervised",
+        "classification",
+        "vision"
+      ],
+      "launched": "25 July 2026",
+      "registration-deadline": "29 Aug 2026",
+      "deadline": "29 Aug 2026",
+      "prize": "$1,500",
+      "platform": "Zindi",
+      "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
+      "conference": null,
+      "conference_year": null
     }
   ]
 }
