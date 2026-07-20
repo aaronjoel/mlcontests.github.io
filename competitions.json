@@ -13,9 +13,10 @@
         "search"
       ],
       "deadline": "1 Aug 2026",
-      "prize": "$1,000",
-      "platform": "Independent",
-      "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy"
+      "prize": "$1,200",
+      "platform": "Codabench",
+      "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
+      "additional_urls": ["https://www.codabench.org/competitions/16945/"]
     },
     {
       "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
@@ -7006,6 +7007,47 @@
       "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
       "conference": null,
       "conference_year": null
+    },
+    {
+      "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
+      "url": "https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/?ref=mlcontests",
+      "tags": [
+        "education",
+        "nlp",
+        "supervised",
+        "tabular",
+        "prediction"
+      ],
+      "launched": "15 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "27 Aug 2026",
+      "added": "13 Jul 2026",
+      "prize": "$50,000",
+      "platform": "DrivenData",
+      "sponsor": "National Tutoring Observatory",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
+    },
+    {
+      "name": "Fine-Tune Domain-Specific LLMs",
+      "url": "https://adaptionlabs.ai/blog/autoscientist-challenge?ref=mlcontests",
+      "tags": [
+        "fine-tuning",
+        "hackathon",
+        "data",
+        "llm"
+      ],
+      "launched": "8 Jun 2026",
+      "registration-deadline": null,
+      "deadline": "10 Aug 2026",
+      "added": "13 Jul 2026",
+      "prize": "$50,000",
+      "platform": "Independent",
+      "sponsor": "Adaption Labs",
+      "conference": null,
+      "conference-year": null,
+      "additional_urls": []
     }
   ]
 }
